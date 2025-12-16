@@ -1,0 +1,20 @@
+{
+  "name": "Standing Biceps Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Clasp your hands behind your back with your palms together, straighten arms and then rotate them so your palms face downward.",
+    "Raise your arms up and hold until you feel a stretch in your biceps."
+  ],
+  "category": "stretching",
+  "prompt": "This is a Standing Biceps Stretch for stretching that uses static force to primarily train the biceps. These are the instructions that a person would receive: \"Clasp your hands behind your back with your palms together, straighten arms and then rotate them so your palms face downward. Raise your arms up and hold until you feel a stretch in your biceps.\""
+}

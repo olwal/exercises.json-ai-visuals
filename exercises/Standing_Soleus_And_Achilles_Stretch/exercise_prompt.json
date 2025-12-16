@@ -1,0 +1,17 @@
+{
+  "name": "Standing Soleus And Achilles Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": null,
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand with your feet hip-distance apart, one foot slightly in front of the other.",
+    "Bend both knees, keeping your back heel on the floor. Switch sides."
+  ],
+  "category": "stretching",
+  "prompt": "This is a Standing Soleus And Achilles Stretch for stretching that uses static force to primarily train the calves. These are the instructions that a person would receive: \"Stand with your feet hip-distance apart, one foot slightly in front of the other. Bend both knees, keeping your back heel on the floor. Switch sides.\""
+}

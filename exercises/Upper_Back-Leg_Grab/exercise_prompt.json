@@ -1,0 +1,20 @@
+{
+  "name": "Upper Back-Leg Grab",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "middle back"
+  ],
+  "instructions": [
+    "While seated, bend forward to hug your thighs from underneath with both arms.",
+    "Keep your knees together and your legs extended out as you bring your chest down to your knees. You can also stretch your middle back by pulling your back away from your knees as your hugging them."
+  ],
+  "category": "stretching",
+  "prompt": "This is a Upper Back-Leg Grab for stretching that uses static force to primarily train the hamstrings. These are the instructions that a person would receive: \"While seated, bend forward to hug your thighs from underneath with both arms. Keep your knees together and your legs extended out as you bring your chest down to your knees. You can also stretch your middle back by pulling your back away from your knees as your hugging them.\""
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Cat Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "instructions": [
+    "Position yourself on the floor on your hands and knees.",
+    "Pull your belly in and round your spine, lower back, shoulders, and neck, letting your head drop.",
+    "Hold for 15 seconds."
+  ],
+  "category": "stretching",
+  "prompt": "This is a Cat Stretch for stretching that uses static force to primarily train the lower back. These are the instructions that a person would receive: \"Position yourself on the floor on your hands and knees. Pull your belly in and round your spine, lower back, shoulders, and neck, letting your head drop. Hold for 15 seconds.\""
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Side Jackknife",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [],
+  "category": "strength",
+  "prompt": "This is a Side Jackknife for strength that uses pull force to primarily train the abdominals."
+}

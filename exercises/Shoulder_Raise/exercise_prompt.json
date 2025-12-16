@@ -1,0 +1,18 @@
+{
+  "name": "Shoulder Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Relax your arms to your sides and raise your shoulders up toward your ears, then back down."
+  ],
+  "category": "stretching",
+  "prompt": "This is a Shoulder Raise for stretching that uses pull force to primarily train the shoulders. These are the instructions that a person would receive: \"Relax your arms to your sides and raise your shoulders up toward your ears, then back down.\""
+}
