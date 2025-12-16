@@ -1,9 +1,37 @@
-# Exercise Catalog
+# Exercise Library - AI Generated Visual Assets
 
-Visual catalog of 873 exercises with AI-generated demonstrations.
+> **Built upon:** [wrkout/exercises.json](https://github.com/wrkout/exercises.json)
 
-**[← Back to README](README.md)**
+This repository provides **AI-generated exercise video demonstrations** for **873 exercises**. The quality of the generated videos varies, which can be attributed to the complexity of the exercise, and/or the quality of the description and the starting image that was used. 
 
+- **Platform**: Python script interfacing with ComfyUI pipelines
+- **Model**: [Wan2.2 Image-to-Video 14B](https://github.com/Wan-Video/Wan2.2)
+- **Process**: Videos/GIFs generated from Position 1 images based on exercise descriptions
+
+
+```
+exercises/
+└── EXERCISE_NAME/
+    └── video/
+        └── 0.mp4              # AI-generated video demonstration
+    ├── gifs/
+    │   └── 0_quarter.gif      # Video @ 25% resolution
+    ├── exercise_prompt.json   # Exercise metadata + AI generation prompt
+    │
+    │                          # --- From original database ---     
+    ├── exercise.json          # Exercise metadata (Instructions, muscles worked, equipment)
+    ├── images/                   
+    │   ├── 0.jpg              # Position 1 (used for img2video)
+    │   └── 1.jpg              # Position 2 (reference only)
+```
+## Credits & License
+
+- **Original Database**: [wrkout/exercises.json](https://github.com/wrkout/exercises.json) by [@wrkout](https://github.com/wrkout)
+- **AI Visual Assets**: Generated using ComfyUI and WAN 2.2 model
+- **License**: Restricted, since the videos potentially inherit restrictions from the original images, which the original repo did not own. 
+
+## Next steps: Style transfer, pose extraction, txt2vid, ...
+- **The image assets from the original repo had copyright limitations**, which has implications for the generated videos as well. Future work could consider using style transfer, pose extraction, or use video generation *without* a starting image to disconnect from the original imagery.
 ---
 
 ## Quick Navigation
@@ -12,8 +40,6 @@ Visual catalog of 873 exercises with AI-generated demonstrations.
 - **[Category Index](#category-index)** - Browse by category at bottom
 
 ---
-
-## Exercises (A-Z)
 
 ## [3/4 Sit-Up](exercises/3_4_Sit-Up/exercise_prompt.json)
 
